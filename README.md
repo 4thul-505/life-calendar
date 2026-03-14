@@ -27,7 +27,7 @@ pip install pillow
 
 ### 2. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/life-calendar
+git clone https://github.com/4thul-505/life-calendar
 cd life-calendar
 ```
 
